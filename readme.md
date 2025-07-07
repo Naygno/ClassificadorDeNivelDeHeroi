@@ -1,7 +1,7 @@
 # Classificador de Nível de Herói
 
 ## Introdução
-Este Classificador de Nível de Herói é um projeto simples que faz parte do Desafio de Projeto do bootcamp: Savegnago - Lógica de Programação disponível na plataforma DIO.
+Este Classificador de Nível de Herói é um projeto simples que faz parte do Desafio de Projeto do bootcamp: Savegnago - Lógica de Programação disponível na plataforma DIO. Ele simula desafios, calcula a experiência (XP) acumulada e, ao final, informa o nível do herói com base nos pontos obtidos.
 
 
 <!-- Badges (opcional) -->
